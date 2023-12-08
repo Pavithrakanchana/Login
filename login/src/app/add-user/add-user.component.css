@@ -1,0 +1,15 @@
+.example-card {
+    max-width: 400px;
+    margin-top: 50px;
+    margin-left: 500px;
+  }
+  .justify{
+    justify-content: right;
+  }
+.btn-color{
+  background: #20B2AA;
+  margin-right: 10px;
+}
+.field-width{
+  width: 100%;
+}
