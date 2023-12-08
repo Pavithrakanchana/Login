@@ -1,0 +1,13 @@
+.color{
+    background: #20B2AA;
+    display: flex;
+    justify-content: left;
+}
+.alignment{
+    margin-left: 100px;
+    /* margin-top: 10px; */
+    display: flex;
+    justify-content: right;
+/* color: #B0E0E6;
+*/
+}
